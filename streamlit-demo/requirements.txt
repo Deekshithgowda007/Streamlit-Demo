@@ -1,0 +1,2 @@
+streamlit==1.31.0  # Replace with the version you are using
+pandas==2.2.0      # Replace with the version you are using
